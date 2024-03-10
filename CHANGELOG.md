@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.0.2](https://github.com/folke/tokyonight.nvim/compare/v3.0.1...v3.0.2) (2024-03-10)
+
+
+### Bug Fixes
+
+* re-add `[@punctuation](https://github.com/punctuation).special` ([#484](https://github.com/folke/tokyonight.nvim/issues/484)) ([b37bc55](https://github.com/folke/tokyonight.nvim/commit/b37bc55d10fd575e9b7b713c59e07c85cb810f67))
+* **treesitter:** correctly link up delimiters again ([8c11d30](https://github.com/folke/tokyonight.nvim/commit/8c11d30a24c5ac8b719048ea4282466e9575b10f))
+* use regular fg for Bold/Italic ([710f901](https://github.com/folke/tokyonight.nvim/commit/710f901c175087c5eeaa77f91dbef4845f3a192f))
+
 ## [3.0.1](https://github.com/folke/tokyonight.nvim/compare/v3.0.0...v3.0.1) (2024-01-21)
 
 
